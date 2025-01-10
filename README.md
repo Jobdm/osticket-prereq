@@ -211,4 +211,4 @@ And now we login into osTicket via browser. You access the login page by clickin
 <p>
 <br/>
 
- <p align="center">b>WE DID IT! Congrats for making it through this tutorial! First time can be rough but after that it's so much easier. 😁</b></p>
+ <p align="center"><b>WE DID IT! Congrats for making it through this tutorial! First time can be rough but after that it's so much easier. 😁</b></p>
